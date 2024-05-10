@@ -1,0 +1,16 @@
+header{
+    display: flexbox;
+    text-align: right;
+    font-style: monospace;
+    margin: 0.5cm;
+    background-color: rgb(97, 97, 97);
+    a:link{
+        color:white;
+    }    
+}
+
+.section{
+    font-style: monospace;
+    text-align: center;
+    color: red;
+}
